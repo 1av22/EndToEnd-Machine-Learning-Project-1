@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: mlendtoendproject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/1av22/EndToEnd-Machine-Learning-Project-1
+Author: 1av22
+Author-email: adichichi162@gmail.com
+Project-URL: Bug Tracker, https://github.com/1av22/EndToEnd-Machine-Learning-Project-1/issues
+
 # Machine Learning End to End Project-1
 
 ## Workflows
